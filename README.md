@@ -4,6 +4,7 @@ This project analyzes Titanic passenger data to discover which factors influence
 
 ## Visualizations
 ![Survival Rate](survival_chart.png)
+![Fare and survival](fare_boxplot.png)
 
 ## Key Insights
 - **Gender:** Women had a significantly higher survival rate.
