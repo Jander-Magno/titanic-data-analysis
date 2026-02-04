@@ -14,3 +14,7 @@ This project analyzes Titanic passenger data to discover which factors influence
 - **The Price of Survival (Fare & Class):** Socioeconomic status was a decisive factor. The Fare Boxplot reveals that survivors generally paid higher ticket prices. Passengers in the lower fare brackets (primarily 3rd Class) faced the highest mortality rates, likely due to cabin locations and evacuation priority.
 - **Predictive Power:** Our Machine Learning model reached an accuracy of 77.65%. This demonstrates that features like Gender, Class, and Fare provide a strong signal for predicting survival outcomes, although some "edge cases" remain difficult to categorize based on these variables alone.
 - **Age and Family:** Preliminary analysis suggests that younger passengers and those traveling in small family units had a slight advantage, showing that family coordination and age-based priority influenced the final outcome.
+
+
+![Kaggle](kaggle_score.png)
+"This model achieved an official Kaggle score of [0.77751], outperforming the basic gender-based benchmark model."
